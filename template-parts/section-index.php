@@ -1,6 +1,5 @@
 <section>
-  <main>
-    <h1 class="p--1 w--100 text--center">Bienvenue sur le thème Blog</h1>
+  <h1 class="p--1 w--100 text--center">Bienvenue sur le thème Blog</h1>
     <div class="main-container d--flex jc--se">
       <article class="flex--400 mb--2">
         <img class="w--100" src="https://picsum.photos/600/300?random=1" alt="photo article 1" />
