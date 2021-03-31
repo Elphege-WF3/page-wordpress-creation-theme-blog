@@ -1,4 +1,4 @@
-</main>
+  </main>
 
   <footer class="container-bg">
   </footer>
