@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/style.css" />
 </head>
 
-<body <?php body_class() ?>>
+<body>
 
   <header class="p--1 d--flex ai--c bg--blue text--white">
     <nav class="header__nav d--flex jc--fe">
