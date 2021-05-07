@@ -1,6 +1,6 @@
 <?php
 
-// EN PHP SIMPLE
+// EN PHP 
 // require_once "header.php";
 // require_once "template-parts/section-index.php";
 // require_once "footer.php";
